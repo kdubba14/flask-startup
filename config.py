@@ -12,7 +12,7 @@ class Config:
     MYSQL_DATABASE_USER = os.environ.get('MYSQL_DATABASE_USER') or None
     MYSQL_DATABASE_PASSWORD = os.environ.get('MYSQL_DATABASE_PASSWORD') or None
     MYSQL_DATABASE_DB = None
-    MYSQL_DATABASE_CHARSET = 'utf8'
+    MYSQL_DATABASE_CHARSET = 'utf8' 
 
     @staticmethod
     def init_app(app):

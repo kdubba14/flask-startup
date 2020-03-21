@@ -4,7 +4,7 @@ from flask.ext.script import Manager, Shell
 
 # The Flask-Script extension provides support for writing external scripts in
 # Flask, which includes running a development server. For more info, visit:
-# http://flask-script.readthedocs.org/en/latest/.
+# http://flask-script.readthedocs.org/en/latest/. 
 manager = Manager(app)
 
 

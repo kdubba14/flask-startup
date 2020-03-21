@@ -1,1 +1,1 @@
-/* Your fancy javascript */
+/* javascript here */

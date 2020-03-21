@@ -18,4 +18,4 @@
 --    hire_date DATE
 --
 --    PRIMARY KEY (emp_no)
---  ) ENGINE = InnoDB DEFAULT CHARSET = "utf8";
+--  ) ENGINE = InnoDB DEFAULT CHARSET = "utf8"; 

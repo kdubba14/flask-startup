@@ -31,28 +31,28 @@ body {
 .genericon-github:before,
 .genericon-linkedin:before,
 .genericon-twitter:before {
-    -webkit-font-smoothing: antialiased;
-    font: normal 32px/1 'Genericons';
-    vertical-align: middle;
+  -webkit-font-smoothing: antialiased;
+  font: normal 32px/1 'Genericons';
+  vertical-align: middle;
 }
 
 .genericon-footer {
-    margin-left: 45%;
-    bottom: 10px;
+  margin-left: 45%;
+  bottom: 10px;
 }
 
 .social-icons {
-    display: inline-block;
-    vertical-align: middle;
-    margin: 5px 0;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 5px 0;
 }
 
 /* Error styles
 ---------------------------------------------------- */
 .error-404-image {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    margin-left: -285px;
-    margin-top: -120px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -285px;
+  margin-top: -120px;
 }
